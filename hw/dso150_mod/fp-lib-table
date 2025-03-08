@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "dso150_mod")(type "KiCad")(uri "${KIPRJMOD}/dso150_mod.pretty")(options "")(descr ""))
-)
